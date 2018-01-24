@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\bin\Debug\Task 05.HotPotato.exe.config
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\bin\Debug\Task 05.HotPotato.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\bin\Debug\Task 05.HotPotato.pdb
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\obj\Debug\Task 05.HotPotato.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\obj\Debug\Task 05.HotPotato.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\obj\Debug\Task 05.HotPotato.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 05.HotPotato\obj\Debug\Task 05.HotPotato.pdb

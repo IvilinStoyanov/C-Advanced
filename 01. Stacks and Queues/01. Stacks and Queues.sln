@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03.DecimalToBinaryConv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04.MatchingBrackets", "Task 04.MatchingBrackets\Task 04.MatchingBrackets.csproj", "{C0DF1B90-ACE0-41CF-A2F2-03A9EE224391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 05.HotPotato", "Task 05.HotPotato\Task 05.HotPotato.csproj", "{B583E92F-4F69-4857-A5F3-B58ED44F3EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 06.TrafficJam", "Task 06.TrafficJam\Task 06.TrafficJam.csproj", "{C6A68667-9726-4B39-8B94-88CF05EE1B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C0DF1B90-ACE0-41CF-A2F2-03A9EE224391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DF1B90-ACE0-41CF-A2F2-03A9EE224391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DF1B90-ACE0-41CF-A2F2-03A9EE224391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B583E92F-4F69-4857-A5F3-B58ED44F3EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B583E92F-4F69-4857-A5F3-B58ED44F3EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B583E92F-4F69-4857-A5F3-B58ED44F3EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B583E92F-4F69-4857-A5F3-B58ED44F3EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A68667-9726-4B39-8B94-88CF05EE1B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A68667-9726-4B39-8B94-88CF05EE1B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A68667-9726-4B39-8B94-88CF05EE1B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A68667-9726-4B39-8B94-88CF05EE1B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
