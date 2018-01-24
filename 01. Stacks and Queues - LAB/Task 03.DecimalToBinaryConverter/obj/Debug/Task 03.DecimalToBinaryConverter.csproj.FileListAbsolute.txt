@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\bin\Debug\Task 03.DecimalToBinaryConverter.exe.config
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\bin\Debug\Task 03.DecimalToBinaryConverter.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\bin\Debug\Task 03.DecimalToBinaryConverter.pdb
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\obj\Debug\Task 03.DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\obj\Debug\Task 03.DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\obj\Debug\Task 03.DecimalToBinaryConverter.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 03.DecimalToBinaryConverter\obj\Debug\Task 03.DecimalToBinaryConverter.pdb

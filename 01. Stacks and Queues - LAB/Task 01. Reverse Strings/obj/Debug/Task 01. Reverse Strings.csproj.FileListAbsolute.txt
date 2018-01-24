@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\bin\Debug\Task_01.Reverse_Strings.exe.config
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\bin\Debug\Task_01.Reverse_Strings.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\bin\Debug\Task_01.Reverse_Strings.pdb
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\obj\Debug\Task 01. Reverse Strings.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\obj\Debug\Task 01. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\obj\Debug\Task_01.Reverse_Strings.exe
+D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 01. Reverse Strings\obj\Debug\Task_01.Reverse_Strings.pdb
