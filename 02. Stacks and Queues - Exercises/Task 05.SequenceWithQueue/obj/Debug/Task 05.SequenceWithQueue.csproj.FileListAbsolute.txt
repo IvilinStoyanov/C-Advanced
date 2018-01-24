@@ -1,0 +1,6 @@
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\bin\Debug\Task 05.SequenceWithQueue.exe.config
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\bin\Debug\Task 05.SequenceWithQueue.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\bin\Debug\Task 05.SequenceWithQueue.pdb
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\obj\Debug\Task 05.SequenceWithQueue.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\obj\Debug\Task 05.SequenceWithQueue.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 05.SequenceWithQueue\obj\Debug\Task 05.SequenceWithQueue.pdb

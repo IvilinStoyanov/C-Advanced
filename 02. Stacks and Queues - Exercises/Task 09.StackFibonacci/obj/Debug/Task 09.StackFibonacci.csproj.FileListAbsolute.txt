@@ -1,0 +1,6 @@
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\bin\Debug\Task 09.StackFibonacci.exe.config
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\bin\Debug\Task 09.StackFibonacci.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\bin\Debug\Task 09.StackFibonacci.pdb
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\obj\Debug\Task 09.StackFibonacci.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\obj\Debug\Task 09.StackFibonacci.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 09.StackFibonacci\obj\Debug\Task 09.StackFibonacci.pdb

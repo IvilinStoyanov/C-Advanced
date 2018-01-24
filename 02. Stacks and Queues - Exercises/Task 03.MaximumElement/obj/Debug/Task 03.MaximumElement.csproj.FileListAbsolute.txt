@@ -1,0 +1,6 @@
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\bin\Debug\Task 03.MaximumElement.exe.config
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\bin\Debug\Task 03.MaximumElement.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\bin\Debug\Task 03.MaximumElement.pdb
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\obj\Debug\Task 03.MaximumElement.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\obj\Debug\Task 03.MaximumElement.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 03.MaximumElement\obj\Debug\Task 03.MaximumElement.pdb

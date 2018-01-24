@@ -1,0 +1,7 @@
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\bin\Debug\Task 01.ReverseNumbersWithAStack.exe.config
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\bin\Debug\Task 01.ReverseNumbersWithAStack.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\bin\Debug\Task 01.ReverseNumbersWithAStack.pdb
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\obj\Debug\Task 01.ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\obj\Debug\Task 01.ReverseNumbersWithAStack.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\obj\Debug\Task 01.ReverseNumbersWithAStack.exe
+D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 01.ReverseNumbersWithAStack\obj\Debug\Task 01.ReverseNumbersWithAStack.pdb
