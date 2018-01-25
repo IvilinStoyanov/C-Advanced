@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.deps.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\bin\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.pdb
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 02.SquareWithMaximumSum\obj\Debug\netcoreapp2.0\Task 02.SquareWithMaximumSum.pdb
