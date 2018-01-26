@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\bin\Debug\netcoreapp2.0\Task 04.PascalTriangle.deps.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\bin\Debug\netcoreapp2.0\Task 04.PascalTriangle.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\bin\Debug\netcoreapp2.0\Task 04.PascalTriangle.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\bin\Debug\netcoreapp2.0\Task 04.PascalTriangle.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\bin\Debug\netcoreapp2.0\Task 04.PascalTriangle.pdb
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.pdb
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 04.PascalTriangle\obj\Debug\netcoreapp2.0\Task 04.PascalTriangle.csprojResolveAssemblyReference.cache

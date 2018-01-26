@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\bin\Debug\netcoreapp2.0\Task 03.GroupNumbers.deps.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\bin\Debug\netcoreapp2.0\Task 03.GroupNumbers.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\bin\Debug\netcoreapp2.0\Task 03.GroupNumbers.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\bin\Debug\netcoreapp2.0\Task 03.GroupNumbers.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\bin\Debug\netcoreapp2.0\Task 03.GroupNumbers.pdb
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.dll
+D:\GitHub\C-Sharp-Advanced\03. Multidimensional Arrays - LAB\Task 03.GroupNumbers\obj\Debug\netcoreapp2.0\Task 03.GroupNumbers.pdb
