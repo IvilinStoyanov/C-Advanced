@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\bin\Debug\netcoreapp2.0\Task 11.HeiganDance.deps.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\bin\Debug\netcoreapp2.0\Task 11.HeiganDance.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\bin\Debug\netcoreapp2.0\Task 11.HeiganDance.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\bin\Debug\netcoreapp2.0\Task 11.HeiganDance.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\bin\Debug\netcoreapp2.0\Task 11.HeiganDance.pdb
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 11.HeiganDance\obj\Debug\netcoreapp2.0\Task 11.HeiganDance.pdb

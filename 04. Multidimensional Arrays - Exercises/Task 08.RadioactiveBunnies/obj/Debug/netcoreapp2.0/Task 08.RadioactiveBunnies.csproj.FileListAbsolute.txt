@@ -1,0 +1,10 @@
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.deps.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.pdb
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\Task 08.RadioactiveBunnies.pdb

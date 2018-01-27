@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\bin\Debug\netcoreapp2.0\Task 05.RubiksMatrix.deps.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\bin\Debug\netcoreapp2.0\Task 05.RubiksMatrix.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\bin\Debug\netcoreapp2.0\Task 05.RubiksMatrix.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\bin\Debug\netcoreapp2.0\Task 05.RubiksMatrix.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\bin\Debug\netcoreapp2.0\Task 05.RubiksMatrix.pdb
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.pdb
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 05.RubiksMatrix\obj\Debug\netcoreapp2.0\Task 05.RubiksMatrix.csprojResolveAssemblyReference.cache
