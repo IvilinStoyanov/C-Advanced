@@ -1,0 +1,11 @@
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\bin\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.deps.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\bin\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.runtimeconfig.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\bin\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.runtimeconfig.dev.json
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\bin\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\bin\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.pdb
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.csprojResolveAssemblyReference.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.csproj.CoreCompileInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.AssemblyInfoInputs.cache
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.AssemblyInfo.cs
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.dll
+D:\GitHub\C-Sharp-Advanced\04. Multidimensional Arrays - Exercises\Task 06.TargetPractiveV2\obj\Debug\netcoreapp2.0\Task 06.TargetPractiveV2.pdb

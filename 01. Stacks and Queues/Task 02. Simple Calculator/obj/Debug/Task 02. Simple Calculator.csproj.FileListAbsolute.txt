@@ -1,7 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\bin\Debug\Task_02.Simple_Calculator.exe.config
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\bin\Debug\Task_02.Simple_Calculator.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\bin\Debug\Task_02.Simple_Calculator.pdb
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\obj\Debug\Task 02. Simple Calculator.csprojResolveAssemblyReference.cache
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\obj\Debug\Task 02. Simple Calculator.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\obj\Debug\Task_02.Simple_Calculator.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 02. Simple Calculator\obj\Debug\Task_02.Simple_Calculator.pdb

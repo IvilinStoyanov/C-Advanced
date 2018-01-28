@@ -1,6 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\bin\Debug\Task 06.TrafficJam.exe.config
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\bin\Debug\Task 06.TrafficJam.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\bin\Debug\Task 06.TrafficJam.pdb
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\obj\Debug\Task 06.TrafficJam.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\obj\Debug\Task 06.TrafficJam.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 06.TrafficJam\obj\Debug\Task 06.TrafficJam.pdb
