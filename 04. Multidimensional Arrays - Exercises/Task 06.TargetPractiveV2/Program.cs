@@ -31,7 +31,7 @@ namespace Task_06.TargetPractiveV2
 
             snakeMatrix = ShotMatrix(snakeMatrix, impactRow, impactCol, raduis); // shotting on matrix
 
-           snakeMatrix = DropCharacter(snakeMatrix);
+            snakeMatrix = DropCharacter(snakeMatrix);
 
             PrintMatrix(snakeMatrix);
 
