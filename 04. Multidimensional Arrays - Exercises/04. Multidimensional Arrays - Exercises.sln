@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 06.TargetPractice", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 07.LegoBlocks", "Task 07.LegoBlocks\Task 07.LegoBlocks.csproj", "{5945E72F-7CEF-4158-8B2E-E5C67FCAD73C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 11.HeiganDance", "Task 11.HeiganDance\Task 11.HeiganDance.csproj", "{962997B5-5F35-41BA-AB9E-D702448F438D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 10.HeiganDance", "Task 11.HeiganDance\Task 10.HeiganDance.csproj", "{962997B5-5F35-41BA-AB9E-D702448F438D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 06.TargetPractiveV2", "Task 06.TargetPractiveV2\Task 06.TargetPractiveV2.csproj", "{054258A4-951B-4E2B-A81E-6D7D8DA7D053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 07.Crossfire", "Task 07.Crossfire\Task 07.Crossfire.csproj", "{561D3A0C-886C-45E0-9C04-04503F62772E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 07.Crossfire", "Task 07.Crossfire\Task 07.Crossfire.csproj", "{561D3A0C-886C-45E0-9C04-04503F62772E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 11. ParkingSystem", "Task 11. ParkingSystem\Task 11. ParkingSystem.csproj", "{820A0742-D3F5-49F3-8EBC-1C94ADC397A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{561D3A0C-886C-45E0-9C04-04503F62772E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{561D3A0C-886C-45E0-9C04-04503F62772E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{561D3A0C-886C-45E0-9C04-04503F62772E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820A0742-D3F5-49F3-8EBC-1C94ADC397A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820A0742-D3F5-49F3-8EBC-1C94ADC397A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820A0742-D3F5-49F3-8EBC-1C94ADC397A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820A0742-D3F5-49F3-8EBC-1C94ADC397A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

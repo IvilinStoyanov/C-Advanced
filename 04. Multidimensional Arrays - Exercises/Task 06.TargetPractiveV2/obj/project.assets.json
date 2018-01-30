@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\Task 06.TargetPractiveV2.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\Task 06.TargetPractiveV2.csproj",
       "projectName": "Task 06.TargetPractiveV2",
-      "projectPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\Task 06.TargetPractiveV2.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\Task 06.TargetPractiveV2.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 06.TargetPractiveV2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\Task 11.HeiganDance.csproj",
-      "projectName": "Task 11.HeiganDance",
-      "projectPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\Task 11.HeiganDance.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\Task 10.HeiganDance.csproj",
+      "projectName": "Task 10.HeiganDance",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\Task 10.HeiganDance.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 11.HeiganDance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

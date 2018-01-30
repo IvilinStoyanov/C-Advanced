@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\Task 08.RadioactiveBunnies.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\Task 08.RadioactiveBunnies.csproj",
       "projectName": "Task 08.RadioactiveBunnies",
-      "projectPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\Task 08.RadioactiveBunnies.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\Task 08.RadioactiveBunnies.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 08.RadioactiveBunnies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

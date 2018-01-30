@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\Task 01.MatrixOfPalindromes.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\Task 01.MatrixOfPalindromes.csproj",
       "projectName": "Task 01.MatrixOfPalindromes",
-      "projectPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\Task 01.MatrixOfPalindromes.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\Task 01.MatrixOfPalindromes.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 01.MatrixOfPalindromes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

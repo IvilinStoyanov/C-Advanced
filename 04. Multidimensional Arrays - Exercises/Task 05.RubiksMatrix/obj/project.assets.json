@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\Task 05.RubiksMatrix.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\Task 05.RubiksMatrix.csproj",
       "projectName": "Task 05.RubiksMatrix",
-      "projectPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\Task 05.RubiksMatrix.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\Task 05.RubiksMatrix.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\C-Sharp-Advanced\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\04. Multidimensional Arrays - Exercises\\Task 05.RubiksMatrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
