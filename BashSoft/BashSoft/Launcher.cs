@@ -10,7 +10,12 @@ namespace BashSoft
     {
         static void Main()
         {
-            IOManager.TraverseDirectory(@"D:\GitHub\C-Sharp-Advanced\BashSoft");
+           // IOManager.TraverseDirectory(@"D:\GitHub\CSharp-Fundamentals-Software-University\BashSoft\BashSoft");
+
+            StudentsRepository.InitializeData();
+            StudentsRepository.GetStudentScoresFromCourse("Unity", "Ivan");
+            
+
         }
     }
 }
