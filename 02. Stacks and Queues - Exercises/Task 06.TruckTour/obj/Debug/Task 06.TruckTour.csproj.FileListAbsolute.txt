@@ -1,7 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\bin\Debug\Task 06.TruckTour.exe.config
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\bin\Debug\Task 06.TruckTour.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\bin\Debug\Task 06.TruckTour.pdb
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\obj\Debug\Task 06.TruckTour.csprojResolveAssemblyReference.cache
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\obj\Debug\Task 06.TruckTour.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\obj\Debug\Task 06.TruckTour.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 06.TruckTour\obj\Debug\Task 06.TruckTour.pdb

@@ -1,6 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\bin\Debug\Task 08.RecursiveFibonacci.exe.config
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\bin\Debug\Task 08.RecursiveFibonacci.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\bin\Debug\Task 08.RecursiveFibonacci.pdb
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\obj\Debug\Task 08.RecursiveFibonacci.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\obj\Debug\Task 08.RecursiveFibonacci.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 08.RecursiveFibonacci\obj\Debug\Task 08.RecursiveFibonacci.pdb

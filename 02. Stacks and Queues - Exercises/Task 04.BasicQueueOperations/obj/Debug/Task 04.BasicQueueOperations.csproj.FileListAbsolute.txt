@@ -1,6 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\bin\Debug\Task 04.BasicQueueOperations.exe.config
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\bin\Debug\Task 04.BasicQueueOperations.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\bin\Debug\Task 04.BasicQueueOperations.pdb
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\obj\Debug\Task 04.BasicQueueOperations.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\obj\Debug\Task 04.BasicQueueOperations.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 04.BasicQueueOperations\obj\Debug\Task 04.BasicQueueOperations.pdb

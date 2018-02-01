@@ -1,7 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\bin\Debug\Task 04.MatchingBrackets.exe.config
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\bin\Debug\Task 04.MatchingBrackets.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\bin\Debug\Task 04.MatchingBrackets.pdb
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\obj\Debug\Task 04.MatchingBrackets.csprojResolveAssemblyReference.cache
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\obj\Debug\Task 04.MatchingBrackets.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\obj\Debug\Task 04.MatchingBrackets.exe
-D:\GitHub\C-Sharp-Advanced\01. Stacks and Queues\Task 04.MatchingBrackets\obj\Debug\Task 04.MatchingBrackets.pdb

@@ -1,6 +1,0 @@
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\bin\Debug\Task 07.BalancedParentheses.exe.config
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\bin\Debug\Task 07.BalancedParentheses.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\bin\Debug\Task 07.BalancedParentheses.pdb
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\obj\Debug\Task 07.BalancedParentheses.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\obj\Debug\Task 07.BalancedParentheses.exe
-D:\GitHub\C-Sharp-Advanced\02. Stacks and Queues - Exercises\Task 07.BalancedParentheses\obj\Debug\Task 07.BalancedParentheses.pdb
