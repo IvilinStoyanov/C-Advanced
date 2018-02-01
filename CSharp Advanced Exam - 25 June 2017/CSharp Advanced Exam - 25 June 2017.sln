@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 01.Regeh", "Task 01.Regeh\Task 01.Regeh.csproj", "{284F1D12-ED6F-471F-A8D5-F8B960C4C60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02.KnightGame", "Task 02.KnightGame\Task 02.KnightGame.csproj", "{A2225D9F-3DED-4FB2-9ED1-6E3BA06E48A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284F1D12-ED6F-471F-A8D5-F8B960C4C60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284F1D12-ED6F-471F-A8D5-F8B960C4C60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284F1D12-ED6F-471F-A8D5-F8B960C4C60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284F1D12-ED6F-471F-A8D5-F8B960C4C60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2225D9F-3DED-4FB2-9ED1-6E3BA06E48A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2225D9F-3DED-4FB2-9ED1-6E3BA06E48A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2225D9F-3DED-4FB2-9ED1-6E3BA06E48A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2225D9F-3DED-4FB2-9ED1-6E3BA06E48A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07B1C8E-BA0F-40DC-B2FE-AF4EE2364928}
+	EndGlobalSection
+EndGlobal
