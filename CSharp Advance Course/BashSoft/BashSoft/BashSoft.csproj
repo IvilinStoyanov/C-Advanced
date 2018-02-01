@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BashSoftProgram.cs" />
+    <Compile Include="Launcher.cs" />
     <Compile Include="IO\CommandInterpreter.cs" />
     <Compile Include="Static data\ExceptionMessages.cs" />
     <Compile Include="IO\InputReader.cs" />

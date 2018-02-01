@@ -1,6 +1,6 @@
 ﻿namespace BashSoft
 {
-    class BashSoftProgram
+    class Launcher
     {
         private static void Main(string[] args)
         {
