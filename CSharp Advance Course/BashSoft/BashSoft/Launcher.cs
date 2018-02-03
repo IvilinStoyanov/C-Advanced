@@ -5,7 +5,7 @@
         private static void Main(string[] args)
         {
             //Exercise 1 Test
-            //IOManager.TraverseDirectory(@"C:\Users\grigo\Pictures");
+            //IOManager.TraverseDirectory(@"D:\GitHub\CSharp-Fundamentals-Software-University\CSharp Advance Course\BashSoft\BashSoft");
 
             //Exercise 2 Tests
             //StudentsRepository.InitializeData();
