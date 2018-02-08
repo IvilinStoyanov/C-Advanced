@@ -7,10 +7,11 @@
     {
         static void Main(string[] args)
         {
+            // regex pattern
             string pattern = @"[#|!][^#!]*?(?<![A-Za-z0-9])(?<streetName>[A-Za-z]{4})(?![A-Za-z0-9])[^#!]*(?<!\d)(?<streetNumber>\d{3})-(?<password>\d{4}|\d{6})(?!\d)[^#!]*?[!|#]";
 
             int count = int.Parse(Console.ReadLine());
-
+            
             for (int i = 0; i < count; i++)
             {
                 string input = Console.ReadLine();
