@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\bin\Debug\netcoreapp2.0\Task01.BankAccount.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\bin\Debug\netcoreapp2.0\Task01.BankAccount.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\bin\Debug\netcoreapp2.0\Task01.BankAccount.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\bin\Debug\netcoreapp2.0\Task01.BankAccount.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\bin\Debug\netcoreapp2.0\Task01.BankAccount.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task01.BankAccount\obj\Debug\netcoreapp2.0\Task01.BankAccount.pdb

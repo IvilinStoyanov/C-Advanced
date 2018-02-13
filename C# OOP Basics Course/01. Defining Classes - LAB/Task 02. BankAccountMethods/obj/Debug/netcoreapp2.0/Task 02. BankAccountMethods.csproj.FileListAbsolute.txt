@@ -1,0 +1,10 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\bin\Debug\netcoreapp2.0\Task 02. BankAccountMethods.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\bin\Debug\netcoreapp2.0\Task 02. BankAccountMethods.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\bin\Debug\netcoreapp2.0\Task 02. BankAccountMethods.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\bin\Debug\netcoreapp2.0\Task 02. BankAccountMethods.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\bin\Debug\netcoreapp2.0\Task 02. BankAccountMethods.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\obj\Debug\netcoreapp2.0\Task 02. BankAccountMethods.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\obj\Debug\netcoreapp2.0\Task 02. BankAccountMethods.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\obj\Debug\netcoreapp2.0\Task 02. BankAccountMethods.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\obj\Debug\netcoreapp2.0\Task 02. BankAccountMethods.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 02. BankAccountMethods\obj\Debug\netcoreapp2.0\Task 02. BankAccountMethods.pdb
