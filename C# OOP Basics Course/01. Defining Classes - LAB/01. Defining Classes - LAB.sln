@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. BankAccount", "Task01.BankAccount\Task 01. BankAccount.csproj", "{3E1C5106-27FC-48E0-A0E8-FA54ED5720EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. BankAccountMethods", "Task 02. BankAccountMethods\Task 02. BankAccountMethods.csproj", "{A5F3EA29-08FA-40F0-98E5-6B1BB9F79AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task 02. BankAccountMethods", "Task 02. BankAccountMethods\Task 02. BankAccountMethods.csproj", "{A5F3EA29-08FA-40F0-98E5-6B1BB9F79AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. TestClient", "Task 03. TestClient\Task 03. TestClient.csproj", "{F1EAD672-A86D-4A99-A24A-865D0AA9D0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A5F3EA29-08FA-40F0-98E5-6B1BB9F79AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F3EA29-08FA-40F0-98E5-6B1BB9F79AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F3EA29-08FA-40F0-98E5-6B1BB9F79AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EAD672-A86D-4A99-A24A-865D0AA9D0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EAD672-A86D-4A99-A24A-865D0AA9D0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EAD672-A86D-4A99-A24A-865D0AA9D0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EAD672-A86D-4A99-A24A-865D0AA9D0A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

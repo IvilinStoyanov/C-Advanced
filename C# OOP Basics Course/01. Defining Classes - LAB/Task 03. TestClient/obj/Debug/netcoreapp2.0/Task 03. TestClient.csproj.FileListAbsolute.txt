@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\bin\Debug\netcoreapp2.0\Task 03. TestClient.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\bin\Debug\netcoreapp2.0\Task 03. TestClient.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\bin\Debug\netcoreapp2.0\Task 03. TestClient.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\bin\Debug\netcoreapp2.0\Task 03. TestClient.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\bin\Debug\netcoreapp2.0\Task 03. TestClient.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\01. Defining Classes - LAB\Task 03. TestClient\obj\Debug\netcoreapp2.0\Task 03. TestClient.pdb
