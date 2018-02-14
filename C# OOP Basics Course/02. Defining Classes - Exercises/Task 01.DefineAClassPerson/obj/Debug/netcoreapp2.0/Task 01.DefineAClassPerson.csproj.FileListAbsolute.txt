@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\bin\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\bin\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\bin\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\bin\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\bin\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 01.DefineAClassPerson\obj\Debug\netcoreapp2.0\Task 01.DefineAClassPerson.pdb

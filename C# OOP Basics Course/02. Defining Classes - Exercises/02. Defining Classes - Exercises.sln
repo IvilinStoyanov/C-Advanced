@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01.DefineAClassPerson", "Task 01.DefineAClassPerson\Task 01.DefineAClassPerson.csproj", "{5BF42A2C-E78C-4DC6-915E-1113D53B6423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. CreatingConstructors", "Task 02. CreatingConstructors\Task 02. CreatingConstructors.csproj", "{63B36DAE-874E-4324-A1FF-E308FB7A0D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF42A2C-E78C-4DC6-915E-1113D53B6423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF42A2C-E78C-4DC6-915E-1113D53B6423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF42A2C-E78C-4DC6-915E-1113D53B6423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF42A2C-E78C-4DC6-915E-1113D53B6423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B36DAE-874E-4324-A1FF-E308FB7A0D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B36DAE-874E-4324-A1FF-E308FB7A0D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B36DAE-874E-4324-A1FF-E308FB7A0D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B36DAE-874E-4324-A1FF-E308FB7A0D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEE2F4F-F7C5-49E6-A157-13728F370B6F}
+	EndGlobalSection
+EndGlobal
