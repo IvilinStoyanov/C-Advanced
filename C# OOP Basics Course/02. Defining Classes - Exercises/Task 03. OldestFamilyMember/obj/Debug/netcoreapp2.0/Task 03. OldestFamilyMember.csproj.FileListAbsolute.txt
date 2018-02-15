@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\bin\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\bin\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\bin\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\bin\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\bin\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 03. OldestFamilyMember\obj\Debug\netcoreapp2.0\Task 03. OldestFamilyMember.pdb

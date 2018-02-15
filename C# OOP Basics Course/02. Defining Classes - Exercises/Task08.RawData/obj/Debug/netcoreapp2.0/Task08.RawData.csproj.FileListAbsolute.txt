@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\bin\Debug\netcoreapp2.0\Task08.RawData.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\bin\Debug\netcoreapp2.0\Task08.RawData.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\bin\Debug\netcoreapp2.0\Task08.RawData.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\bin\Debug\netcoreapp2.0\Task08.RawData.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\bin\Debug\netcoreapp2.0\Task08.RawData.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task08.RawData\obj\Debug\netcoreapp2.0\Task08.RawData.pdb

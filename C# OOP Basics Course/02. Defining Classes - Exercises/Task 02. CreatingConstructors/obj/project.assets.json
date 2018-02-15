@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\02. Defining Classes - Exercises\\Task 02. CreatingConstructors\\Task 02. CreatingConstructors.csproj",
-      "projectName": "Task 02. CreatingConstructors",
-      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\02. Defining Classes - Exercises\\Task 02. CreatingConstructors\\Task 02. CreatingConstructors.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\02. Defining Classes - Exercises\\Task 02. CreatingConstructors\\Task 02.CreatingConstructors.csproj",
+      "projectName": "Task 02.CreatingConstructors",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\02. Defining Classes - Exercises\\Task 02. CreatingConstructors\\Task 02.CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\02. Defining Classes - Exercises\\Task 02. CreatingConstructors\\obj\\",
       "projectStyle": "PackageReference",

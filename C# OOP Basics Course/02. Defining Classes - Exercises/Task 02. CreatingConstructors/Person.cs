@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 
-class Person
+public class Person
 {
     private string name;
 
@@ -23,16 +23,19 @@ class Person
 
     public Person()
     {
-        this.Name = "No Name";
+        this.Name = "No name";
         this.Age = 1;
     }
 
     public Person(int age) : this()
     {
         this.Age = age;
-        // TODO : Rest
     }
 
-
+    public Person(string name, int age) : this(age)
+    {
+        this.Name = name;
+        this.Age = age;
+    }
 }
 

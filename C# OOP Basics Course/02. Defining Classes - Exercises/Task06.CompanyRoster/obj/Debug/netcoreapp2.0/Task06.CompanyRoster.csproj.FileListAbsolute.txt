@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\bin\Debug\netcoreapp2.0\Task06.CompanyRoster.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\bin\Debug\netcoreapp2.0\Task06.CompanyRoster.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\bin\Debug\netcoreapp2.0\Task06.CompanyRoster.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\bin\Debug\netcoreapp2.0\Task06.CompanyRoster.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\bin\Debug\netcoreapp2.0\Task06.CompanyRoster.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task06.CompanyRoster\obj\Debug\netcoreapp2.0\Task06.CompanyRoster.pdb

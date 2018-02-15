@@ -1,0 +1,10 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\bin\Debug\netcoreapp2.0\Task05.DateModifier.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\bin\Debug\netcoreapp2.0\Task05.DateModifier.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\bin\Debug\netcoreapp2.0\Task05.DateModifier.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\bin\Debug\netcoreapp2.0\Task05.DateModifier.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\bin\Debug\netcoreapp2.0\Task05.DateModifier.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\obj\Debug\netcoreapp2.0\Task05.DateModifier.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\obj\Debug\netcoreapp2.0\Task05.DateModifier.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\obj\Debug\netcoreapp2.0\Task05.DateModifier.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\obj\Debug\netcoreapp2.0\Task05.DateModifier.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task05.DateModifier\obj\Debug\netcoreapp2.0\Task05.DateModifier.pdb

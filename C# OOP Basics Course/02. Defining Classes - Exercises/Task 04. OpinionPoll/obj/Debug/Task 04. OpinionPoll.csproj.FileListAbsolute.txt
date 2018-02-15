@@ -1,0 +1,7 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\bin\Debug\Task_04.OpinionPoll.exe.config
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\bin\Debug\Task_04.OpinionPoll.exe
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\bin\Debug\Task_04.OpinionPoll.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\obj\Debug\Task 04. OpinionPoll.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\obj\Debug\Task 04. OpinionPoll.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\obj\Debug\Task_04.OpinionPoll.exe
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task 04. OpinionPoll\obj\Debug\Task_04.OpinionPoll.pdb

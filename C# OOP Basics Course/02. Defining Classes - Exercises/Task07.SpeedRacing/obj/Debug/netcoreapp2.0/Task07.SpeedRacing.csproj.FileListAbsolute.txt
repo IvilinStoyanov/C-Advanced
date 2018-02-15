@@ -1,0 +1,10 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\bin\Debug\netcoreapp2.0\Task07.SpeedRacing.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\bin\Debug\netcoreapp2.0\Task07.SpeedRacing.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\bin\Debug\netcoreapp2.0\Task07.SpeedRacing.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\bin\Debug\netcoreapp2.0\Task07.SpeedRacing.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\bin\Debug\netcoreapp2.0\Task07.SpeedRacing.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\obj\Debug\netcoreapp2.0\Task07.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\obj\Debug\netcoreapp2.0\Task07.SpeedRacing.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\obj\Debug\netcoreapp2.0\Task07.SpeedRacing.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\obj\Debug\netcoreapp2.0\Task07.SpeedRacing.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\02. Defining Classes - Exercises\Task07.SpeedRacing\obj\Debug\netcoreapp2.0\Task07.SpeedRacing.pdb
