@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

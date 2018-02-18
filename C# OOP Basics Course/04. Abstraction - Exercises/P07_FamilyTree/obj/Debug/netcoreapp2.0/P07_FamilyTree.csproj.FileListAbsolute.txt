@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

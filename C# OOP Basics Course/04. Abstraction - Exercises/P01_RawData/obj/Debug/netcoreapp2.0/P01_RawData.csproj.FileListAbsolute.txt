@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\04. Abstraction - Exercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb
