@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\bin\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\bin\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\bin\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\bin\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\bin\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P02_ClassBoxDataValidation\obj\Debug\netcoreapp2.0\P02_ClassBoxDataValidation.pdb

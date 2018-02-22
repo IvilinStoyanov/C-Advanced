@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\bin\Debug\netcoreapp2.0\P03_AnimalFarm.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\bin\Debug\netcoreapp2.0\P03_AnimalFarm.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\bin\Debug\netcoreapp2.0\P03_AnimalFarm.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\bin\Debug\netcoreapp2.0\P03_AnimalFarm.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\bin\Debug\netcoreapp2.0\P03_AnimalFarm.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P03_AnimalFarm\obj\Debug\netcoreapp2.0\P03_AnimalFarm.pdb

@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\bin\Debug\netcoreapp2.0\P01_ClassBox.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\bin\Debug\netcoreapp2.0\P01_ClassBox.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\bin\Debug\netcoreapp2.0\P01_ClassBox.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\bin\Debug\netcoreapp2.0\P01_ClassBox.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\bin\Debug\netcoreapp2.0\P01_ClassBox.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P01_ClassBox\obj\Debug\netcoreapp2.0\P01_ClassBox.pdb

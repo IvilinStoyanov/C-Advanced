@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\bin\Debug\netcoreapp2.0\P04_ShoppingSpree.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\bin\Debug\netcoreapp2.0\P04_ShoppingSpree.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\bin\Debug\netcoreapp2.0\P04_ShoppingSpree.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\bin\Debug\netcoreapp2.0\P04_ShoppingSpree.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\bin\Debug\netcoreapp2.0\P04_ShoppingSpree.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P04_ShoppingSpree\obj\Debug\netcoreapp2.0\P04_ShoppingSpree.pdb

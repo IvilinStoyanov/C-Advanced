@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\bin\Debug\netcoreapp2.0\P05_PizzaCalories.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\bin\Debug\netcoreapp2.0\P05_PizzaCalories.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\bin\Debug\netcoreapp2.0\P05_PizzaCalories.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\bin\Debug\netcoreapp2.0\P05_PizzaCalories.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\bin\Debug\netcoreapp2.0\P05_PizzaCalories.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\06. Encapsulation - Exercises\P05_PizzaCalories\obj\Debug\netcoreapp2.0\P05_PizzaCalories.pdb
