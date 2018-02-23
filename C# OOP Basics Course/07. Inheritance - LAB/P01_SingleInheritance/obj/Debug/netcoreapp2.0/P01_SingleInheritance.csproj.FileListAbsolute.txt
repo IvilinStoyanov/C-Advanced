@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\bin\Debug\netcoreapp2.0\P01_SingleInheritance.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\bin\Debug\netcoreapp2.0\P01_SingleInheritance.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\bin\Debug\netcoreapp2.0\P01_SingleInheritance.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\bin\Debug\netcoreapp2.0\P01_SingleInheritance.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\bin\Debug\netcoreapp2.0\P01_SingleInheritance.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\07. Inheritance - LAB\P01_SingleInheritance\obj\Debug\netcoreapp2.0\P01_SingleInheritance.pdb
