@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\bin\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P04_OnlineRadioDatabase\obj\Debug\netcoreapp2.0\P04_OnlineRadioDatabase.pdb

@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\bin\Debug\netcoreapp2.0\P01_Person.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\bin\Debug\netcoreapp2.0\P01_Person.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\bin\Debug\netcoreapp2.0\P01_Person.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\bin\Debug\netcoreapp2.0\P01_Person.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\bin\Debug\netcoreapp2.0\P01_Person.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P01_Person\obj\Debug\netcoreapp2.0\P01_Person.pdb

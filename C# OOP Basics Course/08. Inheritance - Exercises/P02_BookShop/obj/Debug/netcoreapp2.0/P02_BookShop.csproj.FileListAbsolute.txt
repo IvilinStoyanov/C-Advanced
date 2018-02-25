@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\bin\Debug\netcoreapp2.0\P02_BookShop.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\bin\Debug\netcoreapp2.0\P02_BookShop.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\bin\Debug\netcoreapp2.0\P02_BookShop.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\bin\Debug\netcoreapp2.0\P02_BookShop.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\bin\Debug\netcoreapp2.0\P02_BookShop.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P02_BookShop\obj\Debug\netcoreapp2.0\P02_BookShop.pdb

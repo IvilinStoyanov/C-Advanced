@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\bin\Debug\netcoreapp2.0\P03_Mankind.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\bin\Debug\netcoreapp2.0\P03_Mankind.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\bin\Debug\netcoreapp2.0\P03_Mankind.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\bin\Debug\netcoreapp2.0\P03_Mankind.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\bin\Debug\netcoreapp2.0\P03_Mankind.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P03_Mankind\obj\Debug\netcoreapp2.0\P03_Mankind.pdb

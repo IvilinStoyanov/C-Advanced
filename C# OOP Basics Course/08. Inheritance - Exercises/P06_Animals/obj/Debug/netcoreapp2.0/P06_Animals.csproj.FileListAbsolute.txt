@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\bin\Debug\netcoreapp2.0\P06_Animals.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\bin\Debug\netcoreapp2.0\P06_Animals.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\bin\Debug\netcoreapp2.0\P06_Animals.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\bin\Debug\netcoreapp2.0\P06_Animals.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\bin\Debug\netcoreapp2.0\P06_Animals.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\08. Inheritance - Exercises\P06_Animals\obj\Debug\netcoreapp2.0\P06_Animals.pdb
