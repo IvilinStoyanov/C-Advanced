@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\bin\Debug\netcoreapp2.0\P03_Ferrari.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\bin\Debug\netcoreapp2.0\P03_Ferrari.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\bin\Debug\netcoreapp2.0\P03_Ferrari.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\bin\Debug\netcoreapp2.0\P03_Ferrari.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\bin\Debug\netcoreapp2.0\P03_Ferrari.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P03_Ferrari\obj\Debug\netcoreapp2.0\P03_Ferrari.pdb

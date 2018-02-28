@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\bin\Debug\netcoreapp2.0\P05_BorderControl.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\bin\Debug\netcoreapp2.0\P05_BorderControl.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\bin\Debug\netcoreapp2.0\P05_BorderControl.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\bin\Debug\netcoreapp2.0\P05_BorderControl.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\bin\Debug\netcoreapp2.0\P05_BorderControl.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P05_BorderControl\obj\Debug\netcoreapp2.0\P05_BorderControl.pdb

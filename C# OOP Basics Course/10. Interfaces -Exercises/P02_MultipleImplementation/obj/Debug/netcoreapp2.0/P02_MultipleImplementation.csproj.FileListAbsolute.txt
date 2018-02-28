@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\bin\Debug\netcoreapp2.0\P02_MultipleImplementation.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\bin\Debug\netcoreapp2.0\P02_MultipleImplementation.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\bin\Debug\netcoreapp2.0\P02_MultipleImplementation.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\bin\Debug\netcoreapp2.0\P02_MultipleImplementation.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\bin\Debug\netcoreapp2.0\P02_MultipleImplementation.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\09. Interfaces - LAB\10. Interfaces -Exercises\P02_MultipleImplementation\obj\Debug\netcoreapp2.0\P02_MultipleImplementation.pdb
