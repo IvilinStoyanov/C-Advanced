@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\bin\Debug\netcoreapp2.0\P01_Vehicles.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\bin\Debug\netcoreapp2.0\P01_Vehicles.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\bin\Debug\netcoreapp2.0\P01_Vehicles.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\bin\Debug\netcoreapp2.0\P01_Vehicles.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\bin\Debug\netcoreapp2.0\P01_Vehicles.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P01_Vehicles\obj\Debug\netcoreapp2.0\P01_Vehicles.pdb

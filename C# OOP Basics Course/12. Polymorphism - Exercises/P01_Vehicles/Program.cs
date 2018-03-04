@@ -2,11 +2,15 @@
 
 namespace P01_Vehicles
 {
+    using Interfaces;
+    using Models;
+    using Controller;
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StartUp.Start();
         }
     }
 }
