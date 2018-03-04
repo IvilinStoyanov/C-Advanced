@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\P01_DefineAnInterfaceIPerson.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\P01_DefineAnInterfaceIPerson.csproj",
       "projectName": "P01_DefineAnInterfaceIPerson",
-      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\P01_DefineAnInterfaceIPerson.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\P01_DefineAnInterfaceIPerson.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P01_DefineAnInterfaceIPerson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

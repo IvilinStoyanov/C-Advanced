@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P05_BorderControl\\P05_BorderControl.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P05_BorderControl\\P05_BorderControl.csproj",
       "projectName": "P05_BorderControl",
-      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P05_BorderControl\\P05_BorderControl.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P05_BorderControl\\P05_BorderControl.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P05_BorderControl\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P05_BorderControl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

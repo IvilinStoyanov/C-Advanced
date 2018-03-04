@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P02_MultipleImplementation\\P02_MultipleImplementation.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P02_MultipleImplementation\\P02_MultipleImplementation.csproj",
       "projectName": "P02_MultipleImplementation",
-      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P02_MultipleImplementation\\P02_MultipleImplementation.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P02_MultipleImplementation\\P02_MultipleImplementation.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\09. Interfaces - LAB\\10. Interfaces -Exercises\\P02_MultipleImplementation\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Basics Course\\10. Interfaces -Exercises\\P02_MultipleImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

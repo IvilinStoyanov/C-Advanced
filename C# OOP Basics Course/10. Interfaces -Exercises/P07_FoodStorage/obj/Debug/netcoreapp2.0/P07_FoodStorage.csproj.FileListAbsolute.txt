@@ -1,0 +1,10 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\bin\Debug\netcoreapp2.0\P07_FoodStorage.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\bin\Debug\netcoreapp2.0\P07_FoodStorage.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\bin\Debug\netcoreapp2.0\P07_FoodStorage.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\bin\Debug\netcoreapp2.0\P07_FoodStorage.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\bin\Debug\netcoreapp2.0\P07_FoodStorage.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\obj\Debug\netcoreapp2.0\P07_FoodStorage.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\obj\Debug\netcoreapp2.0\P07_FoodStorage.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\obj\Debug\netcoreapp2.0\P07_FoodStorage.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\obj\Debug\netcoreapp2.0\P07_FoodStorage.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\10. Interfaces -Exercises\P07_FoodStorage\obj\Debug\netcoreapp2.0\P07_FoodStorage.pdb
