@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\bin\Debug\netcoreapp2.0\P03_WildFarm.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\bin\Debug\netcoreapp2.0\P03_WildFarm.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\bin\Debug\netcoreapp2.0\P03_WildFarm.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\bin\Debug\netcoreapp2.0\P03_WildFarm.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\bin\Debug\netcoreapp2.0\P03_WildFarm.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\12. Polymorphism - Exercises\P03_WildFarm\obj\Debug\netcoreapp2.0\P03_WildFarm.csprojResolveAssemblyReference.cache
