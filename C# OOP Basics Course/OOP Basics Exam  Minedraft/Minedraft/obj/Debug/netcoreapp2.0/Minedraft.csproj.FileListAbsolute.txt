@@ -1,0 +1,22 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam – Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP Basics Exam  Minedraft\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
