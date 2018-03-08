@@ -7,20 +7,65 @@ using System.Threading.Tasks;
 
 public class Engine
 {
-    internal void Run()
-    {
-        string command = string.Empty;
+    private bool isRunning;
+    private NationsBuilder nationsBuilder;
 
-        while((command = Console.ReadLine()) != "Quit")
+    public Engine()
+    {
+        this.isRunning = true;
+        this.nationsBuilder = new NationsBuilder();
+    }
+
+
+    public void Run()
+    {
+        while (this.isRunning)
         {
-            var commandArgs = command.Split(' ');
-            ExecuteCommand(commandArgs);
+            string inputCommand = this.ReadInput();
+            var commandParameters = this.ParseInput(inputCommand);
+            this.DistributeCommand(commandParameters);
         }
     }
 
-    public void ExecuteCommand(string[] commandArgs)
+    private void DistributeCommand(List<string> commandParameters)
     {
+        string command = commandParameters[0];
+        commandParameters = commandParameters.Skip(1).ToList();
 
+        switch (command)
+        {
+            case "Bender":
+                this.nationsBuilder.AssignBender(commandParameters);
+                break;
+            case "Monument":
+                this.nationsBuilder.AssignMonument(commandParameters);
+                break;
+            case "Status":
+                string status = this.nationsBuilder.GetStatus(commandParameters[0]);
+                this.OutputWriter(status);
+                break;
+            case "War":
+                this.nationsBuilder.IssueWar(commandParameters[0]);
+                break;
+            case "Quit":
+                string record = this.nationsBuilder.GetWarsRecord();
+                this.OutputWriter(record);
+                this.isRunning = false;
+                break;
+
+        }
+    }
+
+    private void OutputWriter(string status) => Console.WriteLine(status);
+
+    private List<string> ParseInput(string inputCommand)
+    {
+        return inputCommand.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+    }
+
+    private string ReadInput()
+    {
+        return Console.ReadLine();
     }
 }
 
