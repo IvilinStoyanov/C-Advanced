@@ -1,0 +1,7 @@
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\bin\Debug\Avatar.exe.config
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\bin\Debug\Avatar.exe
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\bin\Debug\Avatar.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\obj\Debug\Avatar.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\obj\Debug\Avatar.exe
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\OOP_Basics_Exam_July_2017\Avatar\obj\Debug\Avatar.pdb
