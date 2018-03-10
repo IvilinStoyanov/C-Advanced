@@ -1,0 +1,22 @@
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+c:\users\gigabyte\source\repos\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.deps.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.runtimeconfig.dev.json
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\bin\Debug\netcoreapp2.0\BashSoft.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csprojResolveAssemblyReference.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfoInputs.cache
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.AssemblyInfo.cs
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.dll
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Basics Course\BashSoft\BashSoft\obj\Debug\netcoreapp2.0\BashSoft.pdb
