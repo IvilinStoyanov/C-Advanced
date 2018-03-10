@@ -7,6 +7,7 @@
     using Forum.App.Controllers.Contracts;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
+    using Forum.App.Controllers.Contracts;
 
     internal class MenuController
     {
@@ -146,12 +147,17 @@
 
         private void LogOut()
         {
-            throw new NotImplementedException();
+            Username = string.Empty;
+            LogOutUser();
+            RenderCurrentView();
         }
 
         private void SuccessfulLogin()
         {
-            throw new NotImplementedException();
+            this.Username = ((IReadUserInfoController)CurrentController).Username;
+            LogInUser();
+            RedirectToMenu(MenuState.Main);
+
         }
 
         private void ViewPost()
@@ -184,17 +190,30 @@
                 this.RenderCurrentView();
                 return true;
             }
-            return false;
+            return false; 
         }
 
         private void LogInUser()
         {
-            throw new NotImplementedException();
+            foreach (var controller in controllers)
+            {
+                if (controller is IUserRestrictedController userRestrictedController)
+                {
+                    userRestrictedController.UserLogIn();
+                }
+            }
         }
+    
 
         private void LogOutUser()
         {
-            throw new NotImplementedException();
+            foreach (var controller in controllers)
+            {
+                if (controller is IUserRestrictedController userRestrictedController)
+                {
+                    userRestrictedController.UserLogOut();
+                }
+            }
         }
     }
 }

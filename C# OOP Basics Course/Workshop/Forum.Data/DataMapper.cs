@@ -111,7 +111,7 @@ namespace Forum.Data
             {
                 var splitLine = line.Split(";");
                 var postIds = splitLine[3]
-                    .Split(',')
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToList();
 
@@ -150,7 +150,7 @@ namespace Forum.Data
             {
                 var splitLine = line.Split(";");
                 var replyIds = splitLine[5]
-                    .Split(',')
+                    .Split(',',StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToList();
 

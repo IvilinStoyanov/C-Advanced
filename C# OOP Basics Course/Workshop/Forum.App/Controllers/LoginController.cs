@@ -1,6 +1,7 @@
 ﻿namespace Forum.App.Controllers
 {
     using Forum.App.Controllers.Contracts;
+    using Forum.App.Services;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
     using Forum.App.Views;
@@ -33,9 +34,14 @@
                     ReadPassword();
                     return MenuState.Login;
                 case Command.LoginIn:
-                    //TODO: Log in user;
+                    var userLoggenIn = UsersService.TryLoginUsers(Username, Password);
+                    if(userLoggenIn)
+                    {
+                        return MenuState.Login;
+                    }
                     return MenuState.Error;
                 case Command.Back:
+                    ResetLogin();
                     return MenuState.Back;
                 default:
                     throw new InvalidOperationException();
