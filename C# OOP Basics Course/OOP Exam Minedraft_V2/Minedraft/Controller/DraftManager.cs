@@ -6,18 +6,23 @@ using System.Text;
 
 public class DraftManager
 {
+    HarvestFactory harvestFactory;
+    ProviderFactory providerFactory;
     // data store
     string mode;
     double totalEnergyStored;
     double totalMinedOre;
 
-    Dictionary<string, Harvester> harversters;
-    Dictionary<string, Provider> providers;
+    List<Harvester> harversters;
+    List<Provider> providers;
 
     public DraftManager()
     {
-        this.harversters = new Dictionary<string, Harvester>();
-        this.providers = new Dictionary<string, Provider>();
+        this.harversters = new List<Harvester>();
+        this.providers = new List<Provider>();
+        harvestFactory = new HarvestFactory();
+        providerFactory = new ProviderFactory();
+        this.mode = "Full";
     }
 
     public string RegisterHarvester(List<string> arguments)
@@ -29,8 +34,8 @@ public class DraftManager
         try
         {
 
-            Harvester harvester = HarvestFactory.CreateHarvest(arguments);
-            this.harversters[harvester.Id] = harvester;
+            Harvester harvester = harvestFactory.CreateHarvest(arguments);
+            this.harversters.Add(harvester);
             msg = $"Successfully registered {harversterType} Harvester - {harvester.Id}";
 
         }
@@ -44,12 +49,13 @@ public class DraftManager
 
     public string RegisterProvider(List<string> arguments)
     {
+        var providerType = arguments[0];
         string msg = string.Empty;
         try
         {
-            var providerType = arguments[0];
-            Provider provider = ProviderFactory.CreateProvider(arguments);
-            this.providers[provider.Id] = provider;
+
+            Provider provider = providerFactory.CreateProvider(arguments);
+            this.providers.Add(provider);
 
             msg = $"Successfully registered {providerType} Provider - {provider.Id}";
         }
@@ -68,26 +74,22 @@ public class DraftManager
         double dailyOre = 0;
         double isEnergyEnough = 0;
 
-        dailyEnergy = providers.Sum(v => v.Value.EnergyOutput);
+        dailyEnergy = providers.Sum(v => v.EnergyOutput);
 
         totalEnergyStored += dailyEnergy; // total energy
 
-        isEnergyEnough += harversters.Sum(v => v.Value.EnergyRequirement);
+        isEnergyEnough += harversters.Sum(v => v.EnergyRequirement);
         if (totalEnergyStored >= isEnergyEnough)
         {
             switch (mode)
             {
                 case "Full":
-                    dailyOre += harversters.Sum(v => v.Value.OreOutput);
+                    dailyOre += harversters.Sum(v => v.OreOutput);
                     totalEnergyStored -= isEnergyEnough;
                     break;
                 case "Half":
-                    dailyOre += harversters.Sum(v => (v.Value.OreOutput * 50)) / 100;
+                    dailyOre += harversters.Sum(v => (v.OreOutput * 50)) / 100;
                     totalEnergyStored -= (isEnergyEnough * 60) / 100;
-                    break;
-                default:
-                    dailyOre += harversters.Sum(v => v.Value.OreOutput);
-                    totalEnergyStored -= isEnergyEnough;
                     break;
             }
         }
@@ -106,50 +108,22 @@ public class DraftManager
     public string Mode(List<string> arguments)
     {
         string TypeMode = arguments[0];
-        if (TypeMode == "Full")
-        {
-            this.mode = TypeMode;
-        }
-        else if (TypeMode == "Half")
-        {
-            this.mode = TypeMode;
-        }
-        else
-        {
-            this.mode = TypeMode;
-        }
-        return $"Successfully changed working mode to {this.mode} Mode";
+        return $"Successfully changed working mode to {TypeMode} Mode";
     }
 
     public string Check(List<string> arguments)
     {
         var id = arguments[0];
-        var sb = new StringBuilder();
-
-        if (providers.ContainsKey(id))
+        Identification unit = (Identification)harversters.FirstOrDefault(h => h.Id == id) ??
+            providers.FirstOrDefault(p => p.Id == id);
+        if (unit != null)
         {
-            var type = providers[id].GetType().Name;
-            var index = type.IndexOf("Provider");
-            type = type.Remove(index);
-
-            sb.AppendLine($"{type} Provider - {id}");
-            sb.AppendLine($"Energy Output: {providers[id].EnergyOutput}");
+            return unit.ToString();
         }
-        if (harversters.ContainsKey(id))
+        else
         {
-            var type = harversters[id].GetType().Name;
-            var index = type.IndexOf("Harvester");
-            type = type.Remove(index);
-
-            sb.AppendLine($"{type} Harvester - {id}");
-            sb.AppendLine($"Ore Output: {harversters[id].OreOutput}");
-            sb.AppendLine($"Energy Requirement: {harversters[id].EnergyRequirement}");
+            return $"No element found with id - {id}";
         }
-        if (sb.Length != 0)
-        {
-            return sb.ToString().Trim();
-        }
-        return $"No element found with id - {id}";
     }
 
     public string ShutDown()
@@ -162,6 +136,7 @@ public class DraftManager
 
         return sb.ToString().Trim();
     }
-
 }
+
+
 

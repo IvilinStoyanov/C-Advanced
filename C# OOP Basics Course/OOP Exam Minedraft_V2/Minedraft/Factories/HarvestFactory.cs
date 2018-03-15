@@ -5,7 +5,7 @@ using System.Text;
 
 public class HarvestFactory
 {
-    public static Harvester CreateHarvest(List<string> arguments)
+    public Harvester CreateHarvest(List<string> arguments)
     {
         var type = arguments[0];
         var id = arguments[1];
@@ -17,14 +17,10 @@ public class HarvestFactory
             case "Sonic":
                 var sonicFactor = int.Parse(arguments[4]);
                 return new SonicHarvester(id, oreOutput, energyRequirement, sonicFactor);               
-                break;
             case "Hammer":
                 return new HammerHarvester(id, oreOutput, energyRequirement);
-                break;
-
             default:
                 throw new ArgumentException();
-                break;
         }
 
     }

@@ -9,7 +9,7 @@ public abstract class Harvester : Identification
     private double energyRequirement;
 
     //const
-    public Harvester(string id, double oreOutput, double energyRequirement)
+    protected Harvester(string id, double oreOutput, double energyRequirement)
         : base(id)
     {
         this.OreOutput = oreOutput;
@@ -35,7 +35,7 @@ public abstract class Harvester : Identification
         get { return energyRequirement; }
         protected set
         {
-            if (value < 0 || value > 20000) // is negative = true
+            if (value <= 0 || value > 20000) // is negative = true
             {
                 throw new ArgumentException
                     ($"Harvester is not registered, because of it's {nameof(EnergyRequirement)}");
@@ -44,5 +44,21 @@ public abstract class Harvester : Identification
         }
     }
 
+    public override string ToString()
+    {
+        var type = this.GetType().Name;
+        var endIndex = type.IndexOf("Harvester");
+        type = type.Substring(0, endIndex);
+
+
+        var builder = new StringBuilder();
+        builder
+            .AppendLine($"{type} Harvester - {this.Id}")
+            .AppendLine($"{type} - {this.Id}")
+            .AppendLine($"Ore Output: {this.OreOutput}")
+            .AppendLine($"Energy Requirement: {this.EnergyRequirement}");
+
+        return builder.ToString().Trim();
+    }
 }
 

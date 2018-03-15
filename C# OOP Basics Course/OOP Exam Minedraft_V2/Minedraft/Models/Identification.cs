@@ -10,7 +10,7 @@ public abstract class Identification
     public string Id
     {
         get { return id; }
-        set { id = value; }
+       private set { id = value; }
     }
 
     protected Identification(string id)
