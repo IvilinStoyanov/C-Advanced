@@ -20,9 +20,9 @@ public abstract class Tyre
     public virtual double Degradation
     {
         get { return degradation; }
-       protected set
+        protected set
         {
-            if(value < 0)
+            if (value < 0)
             {
                 throw new ArgumentException("Blown Tyre");
             }
@@ -30,13 +30,9 @@ public abstract class Tyre
         }
     }
 
-
-
-
-
-
-
-
-
+    public virtual void ReduceDegradation()
+    {
+        this.Degradation -= this.Hardness;
+    }
 }
 

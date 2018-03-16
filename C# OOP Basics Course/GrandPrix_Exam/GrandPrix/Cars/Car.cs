@@ -34,5 +34,20 @@ public class Car
             this.fuelAmount = value;
         }
     }
+
+    public void ReduceFuel(int length, double fuelConsumption)
+    {
+        this.FuelAmount = this.FuelAmount - (length * fuelConsumption);
+    }
+
+    public void Refuel(double fuel)
+    {
+        this.FuelAmount += fuel;
+    }
+
+    public void ChangeTyre(Tyre newTyre)
+    {
+        this.Tyre = newTyre;
+    }
 }
 
