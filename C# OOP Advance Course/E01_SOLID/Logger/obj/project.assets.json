@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\Logger\\Logger.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\Logger.csproj",
       "projectName": "Logger",
-      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\Logger\\Logger.csproj",
+      "projectPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\Logger.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\Logger\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp-Fundamentals-Software-University\\C# OOP Advance Course\\E01_SOLID\\Logger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

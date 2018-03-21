@@ -17,7 +17,7 @@ namespace Logger.Models
         }
 
         public ILayout Layout { get; }
-
+        
         public ErrorLevel Level { get; }
 
         public void Appent(IError error)

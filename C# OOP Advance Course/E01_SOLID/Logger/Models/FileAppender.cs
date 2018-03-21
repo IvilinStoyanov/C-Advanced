@@ -24,6 +24,8 @@ namespace Logger.Models
         {
             string formatError = this.Layout.FormatError(error);
             this.logFile.WriteToFile(formatError);
+
+            this.MessagesAppended++;
         }
 
         public override string ToString()
