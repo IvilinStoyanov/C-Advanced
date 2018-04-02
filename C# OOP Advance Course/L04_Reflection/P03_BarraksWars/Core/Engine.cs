@@ -57,10 +57,17 @@
             MethodInfo method = typeof(IExecutable).GetMethods().First();
             object[] constArgs = new object[] { data, this.repository, this.unitFactory };
             object instance = Activator.CreateInstance(commandType, constArgs);
+            try
+            {
+                string result = (string)method.Invoke(instance, null);
 
-            string result = (string)method.Invoke(instance, null);
-
-            return result;
+                return result;
+            }
+            catch (TargetInvocationException e)
+            {
+                throw e.InnerException;
+            }
+           
         }
     }
 }

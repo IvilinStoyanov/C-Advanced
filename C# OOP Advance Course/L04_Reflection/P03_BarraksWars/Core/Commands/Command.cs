@@ -18,19 +18,19 @@
         protected string[] Data
         {
             get { return this.data; }
-            private set { this.data = value; }
+            set { this.data = value; }
         }
 
         protected IRepository Repository
         {
             get { return this.repository; }
-            private set { this.repository = value; }
+            set { this.repository = value; }
         }
 
         protected IUnitFactory UnitFactory
         {
             get { return this.unitFactory; }
-            private set { this.unitFactory = value; }
+            set { this.unitFactory = value; }
         }
 
         public abstract string Execute();

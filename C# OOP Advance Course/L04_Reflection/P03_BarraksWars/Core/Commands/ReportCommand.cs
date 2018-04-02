@@ -5,9 +5,10 @@ using _03BarracksFactory.Contracts;
 
 namespace P03_BarraksWars.Core.Commands
 {
-    class ReportCommand : Command
+    public class ReportCommand : Command
     {
-        public ReportCommand(string[] data, IRepository repository, IUnitFactory unitFactory) : base(data, repository, unitFactory)
+        public ReportCommand(string[] data, IRepository repository, IUnitFactory unitFactory)
+            : base(data, repository, unitFactory)
         {
         }
 
