@@ -1,7 +1,9 @@
 ﻿namespace _03BarracksFactory.Core
 {
     using System;
+    using System.Reflection;
     using Contracts;
+    using System.Linq;
 
     class Engine : IRunnable
     {
@@ -13,7 +15,7 @@
             this.repository = repository;
             this.unitFactory = unitFactory;
         }
-        
+
         public void Run()
         {
             while (true)
@@ -36,39 +38,29 @@
         // TODO: refactor for Problem 4
         private string InterpredCommand(string[] data, string commandName)
         {
-            string result = string.Empty;
-            switch (commandName)
+            Assembly assembly = Assembly.GetCallingAssembly();
+            Type commandType =
+                assembly
+                .GetTypes()
+                .FirstOrDefault(t => t.Name.ToLower() == commandName + "command");
+
+            if (commandType == null)
             {
-                case "add":
-                    result = this.AddUnitCommand(data);
-                    break;
-                case "report":
-                    result = this.ReportCommand(data);
-                    break;
-                case "fight":
-                    Environment.Exit(0);
-                    break;
-                default:
-                    throw new InvalidOperationException("Invalid command!");
+                throw new ArgumentException("Invalid command!");
             }
+
+            if (!typeof(IExecutable).IsAssignableFrom(commandType))
+            {
+                throw new ArgumentException($"{commandName} Is Not A Command!");
+            }
+
+            MethodInfo method = typeof(IExecutable).GetMethods().First();
+            object[] constArgs = new object[] { data, this.repository, this.unitFactory };
+            object instance = Activator.CreateInstance(commandType, constArgs);
+
+            string result = (string)method.Invoke(instance, null);
+
             return result;
-        }
-
-
-        private string ReportCommand(string[] data)
-        {
-            string output = this.repository.Statistics;
-            return output;
-        }
-
-
-        private string AddUnitCommand(string[] data)
-        {
-            string unitType = data[1];
-            IUnit unitToAdd = this.unitFactory.CreateUnit(unitType);
-            this.repository.AddUnit(unitToAdd);
-            string output = unitType + " added!";
-            return output;
         }
     }
 }
