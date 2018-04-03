@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Models\Clarities\" />
+    <Folder Include="Models\Gems\" />
+    <Folder Include="Models\Rarities\" />
+    <Folder Include="Models\Weapons\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Factories\" />
+  </ItemGroup>
+</Project>
