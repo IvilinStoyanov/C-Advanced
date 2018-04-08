@@ -17,3 +17,4 @@ D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Advance Course\E05_Unit
 D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Advance Course\E05_UnitTesting\UnitTests\bin\Debug\netcoreapp2.0\UnitTestExercises.pdb
 D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Advance Course\E05_UnitTesting\UnitTests\bin\Debug\netcoreapp2.0\CustomLinkedList.dll
 D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Advance Course\E05_UnitTesting\UnitTests\bin\Debug\netcoreapp2.0\CustomLinkedList.pdb
+D:\GitHub\CSharp-Fundamentals-Software-University\C# OOP Advance Course\E05_UnitTesting\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CopyComplete
