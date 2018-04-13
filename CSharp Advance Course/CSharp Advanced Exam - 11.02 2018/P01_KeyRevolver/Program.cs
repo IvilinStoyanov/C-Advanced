@@ -17,8 +17,15 @@ public class Program
         var SizeOfGunBarrel = int.Parse(Console.ReadLine());
 
         // bullets sequance
-        bullets = Console.ReadLine().Split().Select(int.Parse).ToList();
-        var locks = Console.ReadLine().Split().Select(int.Parse).ToList();
+        bullets = Console.ReadLine()
+            .Split()
+            .Select(int.Parse)
+            .ToList();
+
+        var locks = Console.ReadLine()
+            .Split()
+            .Select(int.Parse)
+            .ToList();
 
         // intelligence 
         intelligence = int.Parse(Console.ReadLine());
@@ -57,10 +64,12 @@ public class Program
             else
             {
                 Console.WriteLine("Bang!");
-                LockQueue.Dequeue();
+                LockQueue
+                    .Dequeue();
             }
             // removing bullet from the seqauance
-            bulletStack.Pop();
+            bulletStack
+                .Pop();
 
             //check for realoding
             shotCountIndex++;
@@ -86,8 +95,6 @@ public class Program
                 PrintResult();
                 break;
             }
-
-
         }
 
     }
@@ -95,6 +102,7 @@ public class Program
     private static void PrintResult()
     {
         var totalPriceForBullets = totalBulletShot * bulletPrice;
+
         var resultPrice = Math.Abs(intelligence - totalPriceForBullets);
         var bulletsLeft = Math.Abs(totalBulletShot - bullets.Count);
 

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_KeyRevolver", "P01_KeyRevolver\P01_KeyRevolver.csproj", "{FF7A6124-71E9-4D95-B814-C70EA68A4E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_KeyRevolver", "P01_KeyRevolver\P01_KeyRevolver.csproj", "{FF7A6124-71E9-4D95-B814-C70EA68A4E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Sneaking", "P02_Sneaking\P02_Sneaking.csproj", "{9B9CC8D7-B4DF-429E-8CBE-163116CD6855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_Sneaking", "P02_Sneaking\P02_Sneaking.csproj", "{9B9CC8D7-B4DF-429E-8CBE-163116CD6855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_HitList", "P04_HitList\P04_HitList.csproj", "{35B5CE88-9E45-48FF-86EA-E1B488493F6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9B9CC8D7-B4DF-429E-8CBE-163116CD6855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B9CC8D7-B4DF-429E-8CBE-163116CD6855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B9CC8D7-B4DF-429E-8CBE-163116CD6855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B5CE88-9E45-48FF-86EA-E1B488493F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B5CE88-9E45-48FF-86EA-E1B488493F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B5CE88-9E45-48FF-86EA-E1B488493F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B5CE88-9E45-48FF-86EA-E1B488493F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

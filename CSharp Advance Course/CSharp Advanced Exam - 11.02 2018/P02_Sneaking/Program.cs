@@ -19,7 +19,8 @@ namespace P02_Sneaking
             for (int i = 0; i < rowMatrix; i++)
             {
                 var matrixColumInput = Console.ReadLine();
-                field[i] = matrixColumInput.ToCharArray();
+                field[i] = matrixColumInput
+                    .ToCharArray();
 
                 if (field[i].Contains('S'))
                 {
@@ -33,8 +34,11 @@ namespace P02_Sneaking
             for (int i = 0; i < playerCordinates.Length; i++)
             {
                 UpdateEnemy(field);
+
                 EnemyKill(field);
+
                 MovePlayer(field, samCordinates, playerCordinates[i]);
+
                 CheckNikolazde(field);
             }
         }
@@ -46,7 +50,9 @@ namespace P02_Sneaking
                 if (field[i].Contains('N') && field[i].Contains('S'))
                 {
                     field[i][Array.IndexOf(field[i], 'N')] = 'X';
+
                     Console.WriteLine("Nikoladze killed!");
+
                     PrintMatrix(field);
                 }
             }
@@ -86,7 +92,9 @@ namespace P02_Sneaking
                     if (Array.IndexOf(matrix[line], 'b') < Array.IndexOf(matrix[line], 'S'))
                     {
                         matrix[line][Array.IndexOf(matrix[line], 'S')] = 'X';
+
                         Console.WriteLine($"Sam died at {line}, {Array.IndexOf(matrix[line], 'X')}");
+
                         PrintMatrix(matrix);
                     }
                 }
@@ -95,7 +103,9 @@ namespace P02_Sneaking
                     if (Array.IndexOf(matrix[line], 'd') > Array.IndexOf(matrix[line], 'S'))
                     {
                         matrix[line][Array.IndexOf(matrix[line], 'S')] = 'X';
+
                         Console.WriteLine($"Sam died at {line}, {Array.IndexOf(matrix[line], 'X')}");
+
                         PrintMatrix(matrix);
                     }
                 }
@@ -115,7 +125,6 @@ namespace P02_Sneaking
         {
             Console.WriteLine($"Sam died at {row}, {col}");
         }
-
 
         private static void UpdateEnemy(char[][] field)
         {
