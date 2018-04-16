@@ -1,24 +1,26 @@
 ﻿namespace Forum.App.Menus
 {
-	using Contracts;
-	using Models;
+    using Contracts;
+    using Models;
 
     public class MainMenu : Menu
     {
-		private ISession session;
-		private ILabelFactory labelFactory;
+        private ISession session;
+        private ILabelFactory labelFactory;
+        private ICommandFactory commandFactory;
 
-		public MainMenu(ISession session, ILabelFactory labelFactory, ICommandFactory commandFactory)
+        public MainMenu(ISession session, ILabelFactory labelFactory, ICommandFactory commandFactory)
         {
             this.session = session;
-			this.labelFactory = labelFactory;
+            this.labelFactory = labelFactory;
+            this.commandFactory = commandFactory;
 
             this.Open();
         }
 
         protected override void InitializeButtons(Position consoleCenter)
         {
-            string[] buttonContents = new string[] { "CATEGORIES", "LOG IN", "SIGN UP" };
+            string[] buttonContents = new string[] { "Categories", "Log In", "Sign Up" };
 
             if (session?.IsLoggedIn ?? false)
             {
@@ -41,11 +43,11 @@
             }
         }
 
-		protected override void InitializeStaticLabels(Position consoleCenter)
+        protected override void InitializeStaticLabels(Position consoleCenter)
         {
-            string[] labelContents = new string[] 
+            string[] labelContents = new string[]
             {
-                "FORUM - WORKSHOP",
+                "Forum",
                 string.Format("Hi, {0}", this.session?.Username),
             };
 
@@ -64,12 +66,17 @@
             }
 
             this.Labels[lastIndex] = labelFactory
-				.CreateLabel(labelContents[lastIndex], labelPositions[lastIndex], !session?.IsLoggedIn ?? true);
+                .CreateLabel(labelContents[lastIndex], labelPositions[lastIndex], !session?.IsLoggedIn ?? true);
         }
 
-		public override IMenu ExecuteCommand()
-		{
-			throw new System.NotImplementedException();
-		}
+        public override IMenu ExecuteCommand()
+        {
+            string commandName = string.Join("", this.CurrentOption.Text.Split()) + "Menu";
+
+            ICommand command = commandFactory.CreateCommand(commandName);
+
+            IMenu view = command.Execute();
+            return view;
+        }
     }
 }

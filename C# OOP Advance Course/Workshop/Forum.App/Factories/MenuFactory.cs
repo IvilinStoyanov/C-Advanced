@@ -5,11 +5,11 @@ using System.Reflection;
 
 namespace Forum.App.Factories
 {
-    public class MenyFactory : IMenuFactory
+    public class MenuFactory : IMenuFactory
     {
         private IServiceProvider serviceProvider;
 
-        public MenyFactory(IServiceProvider serviceProvider)
+        public MenuFactory(IServiceProvider serviceProvider)
         {
             this.serviceProvider = serviceProvider;
         }
@@ -19,11 +19,11 @@ namespace Forum.App.Factories
             Type menuType = Assembly
                 .GetExecutingAssembly()
                 .GetTypes()
-                .FirstOrDefault(t => t.Name == menuName + "Menu");
+                .FirstOrDefault(t => t.Name == menuName);
 
             if(menuType == null)
             {
-                throw new ArgumentException($"{menuName}Menu is not found!");
+                throw new ArgumentException($"{menuName}Command is not found!");
             }
 
             if(!typeof(IMenu).IsAssignableFrom(menuType))
