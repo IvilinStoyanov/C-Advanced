@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 public abstract class Ammunition : IAmmunition
 {
-    private const int WearLevelMultiplayer = 100;
+    private const int WearLevelMultiplier = 100;
 
     public Ammunition(string name, double weight)
     {
         this.Name = name;
         this.Weight = weight;
-        this.WearLevel = weight * WearLevelMultiplayer;
+        this.WearLevel = weight * WearLevelMultiplier;
     }
 
     public string Name { get; }
