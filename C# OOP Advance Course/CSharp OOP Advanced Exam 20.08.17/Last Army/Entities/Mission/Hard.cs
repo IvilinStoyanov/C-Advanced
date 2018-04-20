@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 public class Hard : Mission
 {
     private const string HardMissionName = "Disposal of terrorists";
+
     private const double HardEnduranceRequired = 80;
     private const double HardWearLevelDecrease = 70;
 

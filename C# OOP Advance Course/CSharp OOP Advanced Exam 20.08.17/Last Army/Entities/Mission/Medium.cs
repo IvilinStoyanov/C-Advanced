@@ -2,6 +2,7 @@
 public class Medium : Mission
 {
     private const string MediumMissionName = "Capturing dangerous criminals";
+
     private const double MediumEnduranceRequired = 50;
     private const double MediumWearLevelDecrease = 50;
 
