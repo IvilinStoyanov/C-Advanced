@@ -15,6 +15,6 @@ public class MissionFactory : IMissionFactory
               .GetTypes()
               .FirstOrDefault(t => t.Name == missionName);
 
-        return (IMission)Activator.CreateInstance(missionType, neededPoints);
+        return (IMission)Activator.CreateInstance(missionType, missionName);
     }
 }

@@ -5,12 +5,14 @@
         this.ScoreToComplete = scoreToComplete;
     }
 
+    public abstract string Name { get; }
+
     public double ScoreToComplete { get; }
 
     public abstract double EnduranceRequired { get; }
 
     public abstract double WearLevelDecrement { get; }
 
-    public abstract string Name { get; }
+
 }
 

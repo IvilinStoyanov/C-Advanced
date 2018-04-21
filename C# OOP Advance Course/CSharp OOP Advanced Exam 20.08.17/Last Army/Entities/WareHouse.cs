@@ -32,7 +32,7 @@ public class WareHouse : IWareHouse
 
     public bool TryEquipSoldier(ISoldier soldier)
     {
-        bool     = true;
+        bool isEquipped = true;
 
         List<string> missingWeapons = soldier.Weapons.Where(w => w.Value == null).Select(w => w.Key).ToList();
         foreach (string weaponName in missingWeapons)
