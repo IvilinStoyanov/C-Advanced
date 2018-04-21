@@ -6,27 +6,45 @@ using System.Threading.Tasks;
 
 public class Engine
 {
+    private IWriter writer;
+    private IReader reader;
+    private GameController gameController;
+
+    private bool isRunning;
+
+    public Engine(IWriter writer, IReader reader, GameController gameController)
+    {
+        this.writer = writer;
+        this.reader = reader;
+        this.gameController = gameController;
+
+        this.isRunning = false;
+    }
+
     public void Run()
     {
-        var input = ConsoleReader.ReadLine();
-        var gameController = new GameController();
-        var result = new StringBuilder();
+        this.isRunning = true;
 
-        while (!input.Equals("Enough! Pull back!"))
+        while (this.isRunning)
         {
+            string input = this.reader.ReadLine();
+            if(input == OutputMessages.InputTerminateString)
+            {
+                this.isRunning = false;
+                continue;
+            }
+
             try
             {
-                gameController.GiveInputToGameController(input);
+                gameController.ProcessCommand(input);
             }
-            catch (ArgumentException arg)
+            catch (ArgumentException e)
             {
-                result.AppendLine(arg.Message);
+                this.writer.StoreMessage(e.Message);
             }
-            input = ConsoleReader.ReadLine();
         }
-
-        gameController.RequestResult(result);
-        ConsoleWriter.WriteLine(result.ToString());
+        this.gameController.ProduceSummury();
+        this.writer.WriteLine(this.writer.StoredMessage.Trim());
     }
 }
 

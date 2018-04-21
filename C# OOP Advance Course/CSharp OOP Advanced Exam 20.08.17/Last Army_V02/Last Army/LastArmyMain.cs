@@ -1,11 +1,18 @@
 ﻿using System;
 using System.Text;
-using Last_Army.Core;
-using Last_Army.IO;
-
 
 public class LastArmyMain
 {
-    Engine engine = new Engine();
+    public static void Main()
+    {
+        IReader reader = new ConsoleReader();
+        IWriter writer = new ConsoleWriter();
+        GameController gameController = new GameController(writer);
+
+        Engine engine = new Engine(writer, reader, gameController);
+        // run program
+        engine.Run();
+    }
+    
 
 }

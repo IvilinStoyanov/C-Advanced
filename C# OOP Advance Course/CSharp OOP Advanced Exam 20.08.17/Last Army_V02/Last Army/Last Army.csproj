@@ -48,12 +48,16 @@
     <Compile Include="Core\Output.cs" />
     <Compile Include="Contants\OutputMessages.cs" />
     <Compile Include="Entities\Ammunitions\Ammunition.cs" />
+    <Compile Include="Entities\Army.cs" />
     <Compile Include="Entities\Missions\Easy.cs" />
+    <Compile Include="Entities\Missions\Hard.cs" />
     <Compile Include="Entities\Missions\Medium.cs" />
     <Compile Include="Entities\Missions\Mission.cs" />
     <Compile Include="Entities\Soldiers\Corporal.cs" />
     <Compile Include="Entities\Soldiers\Ranker.cs" />
+    <Compile Include="Entities\WareHouse.cs" />
     <Compile Include="Factory\AmmunitionFactory.cs" />
+    <Compile Include="Factory\MissionFactory.cs" />
     <Compile Include="Factory\SoldierFactory.cs" />
     <Compile Include="Entities\Ammunitions\AutomaticMachine.cs" />
     <Compile Include="Entities\Ammunitions\Gun.cs" />
@@ -64,6 +68,8 @@
     <Compile Include="Interfaces\IArmy.cs" />
     <Compile Include="Interfaces\IMission.cs" />
     <Compile Include="Interfaces\IMissionFactory.cs" />
+    <Compile Include="Interfaces\IO\IReader.cs" />
+    <Compile Include="Interfaces\IO\IWriter.cs" />
     <Compile Include="Interfaces\ISoldier.cs" />
     <Compile Include="Interfaces\ISoldierFactory.cs" />
     <Compile Include="Interfaces\IWareHouse.cs" />

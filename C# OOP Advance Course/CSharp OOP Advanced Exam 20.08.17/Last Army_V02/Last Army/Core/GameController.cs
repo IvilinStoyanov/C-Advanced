@@ -1,141 +1,122 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Reflection;
 
 public class GameController
 {
-    private Dictionary<string, List<Soldier>> army;
-    private Dictionary<string, List<Ammunition>> wearHouse;
-    private MissionController missionControllerField;
+    #region constants
 
-    public GameController()
+    private const string CommandPrefix = "Parse";
+    private const string CommandSuffix = "Command";
+    private const string RegenerateCommand = "Regenerate";
+    private const string ResultOutput = "Results:";
+    private const string SoldiersOutput = "Soldiers:";
+
+    #endregion
+
+    #region fields
+
+    private readonly MissionController missionController;
+    private readonly SoldierFactory soldiersFactory;
+    private readonly MissionFactory missionFactory;
+    private readonly IWriter writer;
+    private IWareHouse wareHouse;
+    private IArmy army;
+
+    #endregion
+
+    public GameController(IWriter writer)
     {
-        this.Army = new Dictionary<string, List<Soldier>>();
-        this.WearHouse = new Dictionary<string, List<Ammunition>>();
-        this.MissionControllerField = new MissionController(this.army, this.wearHouse);
+        this.wareHouse = new WareHouse();
+        this.writer = writer;
+        this.army = new Army();
+        this.missionController = new MissionController(this.army, this.wareHouse);
+        this.soldiersFactory = new SoldierFactory();
+        this.missionFactory = new MissionFactory();
     }
 
-    public Dictionary<string, List<Soldier>> Army
+    public void ProcessCommand(string input)
     {
-        get { return army; }
-        set { army = value; }
-    }
+        List<string> data = input.Split().ToList();
+        string commandType = data[0];
+        data.RemoveAt(0);
 
-    public Dictionary<string, List<Ammunition>> WearHouse
-    {
-        get { return wearHouse; }
-        set { wearHouse = value; }
-    }
+        string commandFullName = CommandPrefix + commandType + CommandSuffix;
 
-    public MissionController MissionControllerField
-    {
-        get { return missionControllerField; }
-        set { missionControllerField = value; }
-    }
-
-    public void GiveInputToGameController(string input)
-    {
-        var data = input.Split();
-
-        if (data[0].Equals("Soldier"))
+        try
         {
-            string type = string.Empty;
-            string name = string.Empty;
-            int age = 0;
-            int experience = 0;
-            double speed = 0d;
-            double endurance = 0d;
-            double motivation = 0;
-            double maxWeight = 0d;
-
-            if (data.Length == 3)
-            {
-                type = data[1];
-                name = data[2];
-            }
-            else
-            {
-                type = data[1];
-                name = data[2];
-                age = int.Parse(data[3]);
-                experience = int.Parse(data[4]);
-                speed = double.Parse(data[5]);
-                endurance = double.Parse(data[6]);
-                motivation = double.Parse(data[7]);
-                maxWeight = double.Parse(data[8]);
-            }
-
-            switch (type)
-            {
-                case "Ranker":
-                    var ranker = SoldiersFactory.GenerateRanker(name, age, experience, speed, endurance,
-                        motivation, maxWeight);
-                    AddSoldierToArmy(ranker, type);
-                    break;
-                case "Corporal":
-                    var corporal = SoldiersFactory.GenerateCorporal(name, age, experience, speed, endurance,
-                        motivation, maxWeight);
-                    AddSoldierToArmy(corporal, type);
-                    break;
-                case "Special-Force":
-                    var specialForce = SoldiersFactory.GenerateSpecialForce(name, age, experience, speed, endurance,
-                        motivation, maxWeight);
-                    AddSoldierToArmy(specialForce, type);
-                    break;
-                case "Regenerate":
-                    SoldierController.TeamRegenerate(army, name);
-                    break;
-                case "Vacation":
-                    SoldierController.TeamGoesOnVacation(army, name);
-                    break;
-                case "Bonus":
-                    SoldierController.TeamGetBonus(army, name);
-                    break;
-            }
-
+            this.GetType()
+                .GetMethod(commandFullName, BindingFlags.NonPublic | BindingFlags.Instance)
+                .Invoke(this, new object[] { data });
         }
-        else if (data[0].Equals("WearHouse"))
+        catch (TargetInvocationException tie)
         {
-            string name = data[1];
-            int number = int.Parse(data[2]);
-
-            AddAmmunitions(AmmunitionFactory.CreateAmmunitions(name, number));
-        }
-        else if (data[0].Equals("Mission"))
-        {
-            this.MissionControllerField.PerformMission(new Easy());
+            throw tie.InnerException;
         }
     }
 
-    public string RequestResult()
+    private void ParseWareHouseCommand(IList<string> data)
     {
-        return Output.GiveOutput(result, army, wearHouse, this.MissionControllerField.MissionQueue.Count);
+        string name = data[0];
+        int quantity = int.Parse(data[1]);
+        this.wareHouse.AddAmmunition(name, quantity);
     }
 
-    private void AddAmmunitions(Ammunition ammunition)
+    private void ParseSoldierCommand(IList<string> data)
     {
-        if (!this.WearHouse.ContainsKey(ammunition.Name))
+        if (data[0] == RegenerateCommand)
         {
-            this.WearHouse[ammunition.Name] = new List<Ammunition>();
-            this.WearHouse[ammunition.Name].Add(ammunition);
+            this.army.RegenerateTeam(data[1]);
         }
         else
         {
-            this.WearHouse[ammunition.Name][0].Number += ammunition.Number;
+            this.AddSoldierToArmy(data);
         }
     }
 
-    private void AddSoldierToArmy(Soldier soldier, string type)
+    private void AddSoldierToArmy(IList<string> data)
     {
-        if (!soldier.CheckIfSoldierCanJoinTeam())
+        string type = data[0];
+        string name = data[1];
+        int age = int.Parse(data[2]);
+        double experience = double.Parse(data[3]);
+        double endurance = double.Parse(data[4]);
+
+        ISoldier soldier = this.soldiersFactory.CreateSoldier(type, name, age, experience, endurance);
+
+        if (!this.wareHouse.TryEquipSolider(soldier))
         {
-            throw new ArgumentException($"The soldier {soldier.Name} is not skillful enough {type} team");
+            throw new ArgumentException(string.Format(OutputMessages.NoWeaponsForSoldierType, type, name));
         }
 
-        if (!this.Army.ContainsKey(type))
+        this.army.AddSoldier(soldier);
+    }
+
+    private void ParseMissionCommand(IList<string> data)
+    {
+        string difficultyLevel = data[0];
+        double scoreToComplete = double.Parse(data[1]);
+        IMission mission = this.missionFactory.CreateMission(difficultyLevel, scoreToComplete);
+
+        this.writer.StoreMessage(this.missionController.PerformMission(mission));
+    }
+
+    public void ProduceSummury()
+    {
+        List<ISoldier> orderedArmy = this.army.Soldiers.OrderByDescending(s => s.OverallSkill).ToList();
+        this.missionController.FailMissionsOnHold();
+
+
+
+        this.writer.StoreMessage(ResultOutput);
+        this.writer.StoreMessage(string.Format(OutputMessages.MissionsSummurySuccessful, this.missionController.SuccessMissionCounter));
+        this.writer.StoreMessage(string.Format(OutputMessages.MissionsSummuryFailed, this.missionController.FailedMissionCounter));
+        this.writer.StoreMessage(SoldiersOutput);
+        foreach (var soldier in orderedArmy)
         {
-            this.Army[type] = new List<Soldier>();
+            this.writer.StoreMessage(soldier.ToString());
         }
-        this.Army[type].Add(soldier);
+        //this.writer.StoreMessage(string.Join(Environment.NewLine, orderedArmy));
     }
 }

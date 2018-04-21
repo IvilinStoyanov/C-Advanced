@@ -1,12 +1,27 @@
 ﻿using System;
+using System.Text;
 
-namespace Last_Army.IO
+public class ConsoleWriter : IWriter
 {
-    class ConsoleWriter
+    private StringBuilder sb;
+
+    public ConsoleWriter()
     {
-        public static void WriteLine(string output)
-        {
-            Console.WriteLine(output);
-        }
+        this.sb = new StringBuilder();
+    }
+
+    public string StoredMessage
+    {
+        get => this.sb.ToString();
+    }
+
+    public void StoreMessage(string message)
+    {
+        sb.AppendLine(message.Trim());
+    }
+
+    public void WriteLine(string output)
+    {
+        Console.WriteLine(output);
     }
 }
